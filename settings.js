@@ -36,21 +36,21 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
+global.vcardowner = ['94719364229'] //ur owner number
+global.ownername = "SL Max Madu" //ur owner name
+global.ytname = "YT: SL Max Madu" //ur yt chanel name
+global.socialm = "INSTA: SL Max Madu" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '94711421243' //ur tag number
-global.botnumber = '94764679736' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
+global.owner = ['94719364229']
+global.ownertag = '94719364229' //ur tag number
+global.botnumber = '94719364229' //Add your Bot Number For Log
+global.botname = 'SL Max Madu' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
-global.linkz = 'https://youtu.be/uzMbW5v9QLE'
+global.linkz = 'https://youtube.com/channel/UC2wXSzkbSzdMv7cJiN8PNlA'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
 global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
